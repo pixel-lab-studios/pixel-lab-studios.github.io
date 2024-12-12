@@ -1,5 +1,4 @@
 ---
-title: Welcome to my blog
-testing page !
+title: Welcome to my blog, hello world
 ---
 
